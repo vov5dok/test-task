@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/test-task",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ivanovvju",
+      "email": "ivanovvjju@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    }
+  }
+}
